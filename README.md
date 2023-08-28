@@ -6,7 +6,6 @@ Handwritten Text Recognition System with User Interface using CSS
 - The model takes **images of single words as input** and **outputs the recognized text**.
 - 3/4 of the words from the validation-set are correctly recognized, and the character error rate is around 10%.
 
-![htr](./doc/htr.png)
 
 ## Run demo:
 
@@ -16,7 +15,6 @@ Handwritten Text Recognition System with User Interface using CSS
 
 The input images, and the expected outputs are shown below when the text line model is used.
 
-![test](./data/word.png)
 
 ```
 > python main.py
